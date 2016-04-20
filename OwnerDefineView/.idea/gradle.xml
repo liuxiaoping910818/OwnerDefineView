@@ -12,6 +12,10 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/advertisedem" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/dopboxdemo" />
+            <option value="$PROJECT_DIR$/myviewpager" />
+            <option value="$PROJECT_DIR$/switchdemo" />
+            <option value="$PROJECT_DIR$/waterripple" />
           </set>
         </option>
       </GradleProjectSettings>

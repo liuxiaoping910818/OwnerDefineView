@@ -5,6 +5,10 @@
       <module fileurl="file://$PROJECT_DIR$/OwnerDefineView.iml" filepath="$PROJECT_DIR$/OwnerDefineView.iml" />
       <module fileurl="file://$PROJECT_DIR$/advertisedem/advertisedem.iml" filepath="$PROJECT_DIR$/advertisedem/advertisedem.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dopboxdemo/dopboxdemo.iml" filepath="$PROJECT_DIR$/dopboxdemo/dopboxdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myviewpager/myviewpager.iml" filepath="$PROJECT_DIR$/myviewpager/myviewpager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/switchdemo/switchdemo.iml" filepath="$PROJECT_DIR$/switchdemo/switchdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/waterripple/waterripple.iml" filepath="$PROJECT_DIR$/waterripple/waterripple.iml" />
     </modules>
   </component>
 </project>

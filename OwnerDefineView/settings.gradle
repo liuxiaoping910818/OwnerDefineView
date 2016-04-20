@@ -1,1 +1,1 @@
-include ':app', ':advertisedem'
+include ':app', ':advertisedem', ':dopboxdemo', ':switchdemo', ':myviewpager', ':waterripple'
